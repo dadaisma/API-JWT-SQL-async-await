@@ -1,5 +1,5 @@
-User Authentication API
-This API is built with Express.js and uses TypeORM for data persistence. It provides endpoints for user registration, login, and user management. It uses JSON Web Tokens (JWT) for authentication.
+User Authentication API:
+This API is built with Express.js and uses TypeORM (or SQLITE3 and SQL queries)for data persistence. It provides endpoints for user registration, login, and user management. It uses JSON Web Tokens (JWT) for authentication.
 
 Setup
 The application is set up to run on port 3000. It uses JSON middleware for request body parsing.
